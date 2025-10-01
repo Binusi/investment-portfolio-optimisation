@@ -1,0 +1,8 @@
+start: "2015-01-01"
+tickers:
+  - AAPL
+  - MSFT
+  - SPY      # S&P 500 ETF
+  - QQQ      # Nasdaq-100 ETF
+  - GLD      # Gold ETF
+  - IEF      # 7-10y US Treasury ETF
